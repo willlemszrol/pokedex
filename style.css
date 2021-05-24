@@ -1,0 +1,88 @@
+img{
+    border: 2px solid gray;
+ border-radius: 30px;
+}
+#gray{
+    background-image: url(hatter.png);
+    background-repeat: round;
+}
+.container{
+    background-image: url(gra.png);
+    background-color: white;
+    background
+    max-width: 1000px;
+    margin: auto;
+    border-radius:40px;
+}
+#fönev{
+    text-align: center;
+    
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.jobbrapicit{
+    text-align: center;
+    border: 2px solid black;
+    width: 300px;
+    margin: auto;
+}
+#bal{
+    text-align: left;
+    list-style: none;
+     float: left;
+     padding: 5px;
+     width: 285px;
+     border-radius: 30px;
+}
+#ball{
+list-style: none;
+text-align: left;
+padding: 5px;
+border-radius: 10px;
+
+}
+#balli{
+    list-style: none;
+    text-align: left;
+    padding: 5px;
+    border-radius: 10px;
+}
+#blue{
+    color: blue;
+}
+#pink{
+    color: rgb(194, 150, 157);
+}
+#basestats{
+    position: relative;
+    width: 500px;
+    height: 200px;
+    margin-top: 30px;
+}
+#piros{
+    color: white;
+    background-color: rgb(241, 42, 42);
+    border-radius: 5px;
+    width: 2px;
+    text-decoration-line: none;
+}
+#kek{
+    color: white;
+    background-color: rgb(105, 117, 224);
+    border-radius: 5px;
+    text-decoration-line: none;
+}
+#evo{
+    width: 500px;
+    height: 200px;
+    margin-top: 30px;
+}
+#bal,#balli,#ball{
+    border-right-color: orange;
+    border-bottom-color: red;
+    border-top-color: yellow;
+    border-left-color: brown;
+}
